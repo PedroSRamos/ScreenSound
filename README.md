@@ -1,2 +1,2 @@
 # ScreenSound
-Desenvolvimento em C#
+Informar as bandas preferidas, listar as bandas, dar pontuações a cada banda!
