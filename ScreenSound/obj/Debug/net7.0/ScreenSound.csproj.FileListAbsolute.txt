@@ -1,0 +1,16 @@
+D:\TreinamentoC#\ScreenSound\ScreenSound\bin\Debug\net7.0\ScreenSound.exe
+D:\TreinamentoC#\ScreenSound\ScreenSound\bin\Debug\net7.0\ScreenSound.deps.json
+D:\TreinamentoC#\ScreenSound\ScreenSound\bin\Debug\net7.0\ScreenSound.runtimeconfig.json
+D:\TreinamentoC#\ScreenSound\ScreenSound\bin\Debug\net7.0\ScreenSound.dll
+D:\TreinamentoC#\ScreenSound\ScreenSound\bin\Debug\net7.0\ScreenSound.pdb
+D:\TreinamentoC#\ScreenSound\ScreenSound\obj\Debug\net7.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+D:\TreinamentoC#\ScreenSound\ScreenSound\obj\Debug\net7.0\ScreenSound.AssemblyInfoInputs.cache
+D:\TreinamentoC#\ScreenSound\ScreenSound\obj\Debug\net7.0\ScreenSound.AssemblyInfo.cs
+D:\TreinamentoC#\ScreenSound\ScreenSound\obj\Debug\net7.0\ScreenSound.csproj.CoreCompileInputs.cache
+D:\TreinamentoC#\ScreenSound\ScreenSound\obj\Debug\net7.0\ScreenSound.dll
+D:\TreinamentoC#\ScreenSound\ScreenSound\obj\Debug\net7.0\refint\ScreenSound.dll
+D:\TreinamentoC#\ScreenSound\ScreenSound\obj\Debug\net7.0\ScreenSound.pdb
+D:\TreinamentoC#\ScreenSound\ScreenSound\obj\Debug\net7.0\ScreenSound.genruntimeconfig.cache
+D:\TreinamentoC#\ScreenSound\ScreenSound\obj\Debug\net7.0\ref\ScreenSound.dll
+D:\TreinamentoC#\ScreenSound\ScreenSound\obj\Debug\net7.0\ScreenSound.Properties.Resources.resources
+D:\TreinamentoC#\ScreenSound\ScreenSound\obj\Debug\net7.0\ScreenSound.csproj.GenerateResource.cache
