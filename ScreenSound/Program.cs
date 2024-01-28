@@ -6,11 +6,7 @@ internal class Program
     private static void Main(string[] args)
     {
         string mensagemDeBoasVindas = "Boas vindas ao Screen Sound";
-        //List<string> listadasBandas = new List<string> { "U2", "The Beatles", "Calipso" };
         Dictionary<string, List<int>> bandasRegistradas = new Dictionary<string, List<int>>();
-
-        bandasRegistradas.Add("Linkin Park", new List<int> { 10, 8, 6 });
-        bandasRegistradas.Add("The Beatles", new List<int> { 10,3});
 
         void ExibirMensagemDeBoasVindas()
         {
